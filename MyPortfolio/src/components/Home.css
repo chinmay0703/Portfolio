@@ -1,0 +1,5 @@
+/* Add this CSS to make the image responsive */
+.img-responsive {
+    max-width: 100%;
+    height: auto;
+}
