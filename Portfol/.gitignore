@@ -1,0 +1,5 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore the package.json file (optional, remove if you want to commit package.json)
+package.json
