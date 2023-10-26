@@ -7,10 +7,10 @@ function MyWork() {
     return (
         <Fragment>
             <div className="col">
-                <div className="slide-in-top">
+                <div className="p-2 slide-in-top">
 
                     <div className="row">
-                        <div className="col-6">
+                        <div className="col-12 p-2">
                             <h1 className="ff-jose fw-bold ls-2" > Work Showcase</h1>
                         </div>
                     </div>
