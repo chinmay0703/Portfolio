@@ -1,8 +1,10 @@
 import React, { Fragment } from 'react'
+import Sidebar from './Sidebar'
 
 function About() {
     return (
         <Fragment>
+            <Sidebar></Sidebar>
             <div className="col py-3 d-flex align-items-center about-image">
 
                 <div className="container">

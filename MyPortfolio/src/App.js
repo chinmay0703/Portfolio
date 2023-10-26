@@ -11,8 +11,6 @@ function App() {
   return (
     <div className="app-container container-fluid">
       <div className="row flex-nowrap">
-        
-     <Sidebar></Sidebar>
         <Routes>
           <Route path="/" element={ <Home/> } exact></Route>
           <Route path="/about" element={<About/>}></Route>

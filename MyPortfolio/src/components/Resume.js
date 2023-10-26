@@ -1,9 +1,11 @@
 import React, { Fragment } from 'react'
 import { SiCodechef, SiHackerrank } from 'react-icons/si';
+import Sidebar from './Sidebar';
 
 function Resume() {
   return (
     <Fragment>
+        <Sidebar></Sidebar>
         <div className="col p-4"> 
             <div className="p-4 bg-dark slide-in-top">
                 

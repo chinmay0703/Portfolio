@@ -1,8 +1,10 @@
 import React, { Fragment } from 'react'
 import {SiSpringboot,SiJavascript,SiMicrosoftsqlserver,SiPostman,SiReact,SiHtml5,SiCss3,SiBootstrap,SiGit} from 'react-icons/si'
+import Sidebar from './Sidebar'
 function Skills() {
   return (
     <Fragment>
+        <Sidebar></Sidebar>
         <div className="col py-3 d-flex align-items-center"> 
             <div className="container-fluid">
                 <div className="row">

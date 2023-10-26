@@ -1,8 +1,10 @@
 import React, { Fragment } from 'react'
 import "./Home.css";
+import Sidebar from './Sidebar';
 function Home() {
   return (
     <Fragment>
+      <Sidebar></Sidebar>
         <div className="col py-3 d-flex align-items-center"> 
 
             <div className="container">
