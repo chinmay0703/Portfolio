@@ -18,7 +18,7 @@ function MyWork() {
                     <div className="row">
                         <div className="col-md-4 text-center my-2">
 
-                            <div id="carouselExampleControls1" className="carousel slide my-1" data-bs-ride="carousel">
+                            <div id="carouselExampleControls1" className="carousel slide my-1" >
                                 <div className="carousel-inner">
                                     <div className="carousel-item active">
                                         <img src="../portfolio-images/222.png" className="d-block w-100 img-responsive " height="225" alt="..." />
@@ -54,7 +54,7 @@ function MyWork() {
 
                         <div className="col-md-4 text-center my-2">
 
-                            <div id="carouselExampleControls3" className="carousel slide my-1" data-bs-ride="carousel">
+                            <div id="carouselExampleControls3" className="carousel slide my-1" >
                                 <div className="carousel-inner">
                                     <div className="carousel-item active">
                                         <img src="../portfolio-images/11.png" className="d-block w-100  img-responsive" height="225" alt="..." />
@@ -86,7 +86,7 @@ function MyWork() {
                         </div>
                         <div className="col-md-4 text-center my-2">
 
-                            <div id="carouselExampleControls4" className="carousel slide my-1" data-bs-ride="carousel">
+                            <div id="carouselExampleControls4" className="carousel slide my-1" >
                                 <div className="carousel-inner">
                                     <div className="carousel-item active">
                                         <img src="../portfolio-images/21.png" className="d-block w-100  img-responsive" height="225" alt="..." />
@@ -116,7 +116,7 @@ function MyWork() {
                         </div>
                         <div className="col-md-4 text-center my-2">
 
-                            <div id="carouselExampleControls2" className="carousel slide my-1" data-bs-ride="carousel">
+                            <div id="carouselExampleControls2" className="carousel slide my-1" >
                                 <div className="carousel-inner">
                                     <div className="carousel-item active">
                                         <img src="../portfolio-images/Screenshot (116).png" className="d-block w-100 img-responsive" height="225" alt="..." />
@@ -180,7 +180,7 @@ function MyWork() {
 
                         <div className="col-md-4 text-center my-2">
 
-                            <div id="carouselExampleControls10" className="carousel slide my-1" data-bs-ride="carousel">
+                            <div id="carouselExampleControls10" className="carousel slide my-1" >
                                 <div className="carousel-inner">
                                     <div className="carousel-item active">
                                         <img src="../portfolio-images/Screenshot (154).png" className="d-block w-100  img-responsive" height="225" alt="..." />
