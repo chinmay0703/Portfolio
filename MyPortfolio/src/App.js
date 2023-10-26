@@ -2,7 +2,7 @@ import './App.css';
 import {Routes,Route} from "react-router-dom";
 import About from './components/About';
 import Home from './components/Home';
-import Sidebar from './components/Sidebar';
+// import Sidebar from './components/Sidebar';
 import Skills from './components/Skills';
 import Resume from './components/Resume';
 import MyWork from './components/MyWork';

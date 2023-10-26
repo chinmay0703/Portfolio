@@ -2,9 +2,9 @@ import React, { Fragment } from 'react'
 import { VscHome } from 'react-icons/vsc'
 import { FiUser } from 'react-icons/fi'
 import { BsCode } from 'react-icons/bs'
-import { MdOutlineDashboard, MdOutlineContactPage, MdEmail,MdPhone } from 'react-icons/md'
-import { AiFillLinkedin, AiFillSkype, AiFillGithub, AiOutlineUnorderedList } from 'react-icons/ai'
-import { VscAccount } from 'react-icons/vsc'
+import { MdOutlineDashboard, MdOutlineContactPage,MdPhone } from 'react-icons/md'
+import { AiFillLinkedin, AiFillGithub } from 'react-icons/ai'
+// import { VscAccount } from 'react-icons/vsc'
 import { Link, NavLink } from "react-router-dom";
 
 function Sidebar() {
