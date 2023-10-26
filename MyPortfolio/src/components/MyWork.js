@@ -6,8 +6,8 @@ import { AiFillGithub, AiFillCloud,
 function MyWork() {
     return (
         <Fragment>
-            <div className="col p-4">
-                <div className="p-4 slide-in-top">
+            <div className="col">
+                <div className="slide-in-top">
 
                     <div className="row">
                         <div className="col-6">
