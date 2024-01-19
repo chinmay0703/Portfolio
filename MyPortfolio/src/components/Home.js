@@ -1,7 +1,6 @@
 import React, { Fragment } from 'react'
 import "./Home.css";
 import Sidebar from './Sidebar';
-import Footer from './Footer';
 function Home() {
   return (
     <Fragment>
