@@ -1,10 +1,15 @@
 import React, { Fragment } from 'react'
 import "./Home.css";
 import Sidebar from './Sidebar';
+import Footer from './Footer';
 function Home() {
   return (
     <Fragment>
       <Sidebar></Sidebar>
+      <div>
+
+      
+     
         <div className="col py-3 d-flex align-items-center"> 
 
             <div className="container">
@@ -27,8 +32,13 @@ function Home() {
 
             </div>
             
+           
         </div>
+
+        </div>
+       
     </Fragment>
+    
   )
 }
 

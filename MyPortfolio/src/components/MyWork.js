@@ -1,12 +1,16 @@
 import React, { Fragment } from 'react'
 import { GrPrevious, GrNext } from 'react-icons/gr';
-import { AiFillGithub, AiFillCloud,
-    AiOutlineArrowLeft } from 'react-icons/ai';
+import {
+    AiFillGithub, AiFillCloud,
+    AiOutlineArrowLeft
+} from 'react-icons/ai';
+import Footer from './Footer';
 
 function MyWork() {
     return (
         <Fragment>
-            <div className="col">
+            <div>
+                            <div className="col">
                 <div className="p-2 slide-in-top">
 
                     <div className="row">
@@ -16,7 +20,7 @@ function MyWork() {
                     </div>
                     <div className="row">
                         <div className="col-12">
-                          <a href='/'>  <h6 className="ff-jose fw-bold ls-2"><AiOutlineArrowLeft></AiOutlineArrowLeft>Home</h6></a>
+                            <a href='/'>  <h6 className="ff-jose fw-bold ls-2"><AiOutlineArrowLeft></AiOutlineArrowLeft>Home</h6></a>
                         </div>
                     </div>
                     <hr></hr>
@@ -238,7 +242,13 @@ function MyWork() {
 
                     </div>
                 </div>
+             
             </div>
+           
+            </div>
+            
+
+            
         </Fragment>
     )
 }
